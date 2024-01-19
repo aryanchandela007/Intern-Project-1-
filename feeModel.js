@@ -1,3 +1,4 @@
+//fee model
 const mongoose = require('mongoose');
 const feeSchema = new mongoose.Schema({
     tution_fee: Number,
